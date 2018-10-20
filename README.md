@@ -1,4 +1,4 @@
-[![Docker Build Status](https://img.shields.io/docker/build/zcsevcik/gcc-linaro-armhf.svg)](https://hub.docker.com/r/zcsevcik/gcc-linaro-armhf/)
+[![Docker Build Status](https://img.shields.io/docker/build/zcsevcik/gcc-linaro-aarch64.svg)](https://hub.docker.com/r/zcsevcik/gcc-linaro-aarch64/)
 
-# docker-gcc-linaro-armhf
-gcc-linaro-arm-linux-gnueabihf
+# docker-gcc-linaro-aarch64
+gcc-linaro-aarch64-linux-gnu
